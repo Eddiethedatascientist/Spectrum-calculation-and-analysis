@@ -1,5 +1,6 @@
 # Spectrum-signal-analysis-toolkit
 <img width="520" height="639" alt="5" src="https://github.com/user-attachments/assets/a0352ac8-0a0e-49b1-a2bc-db015d511a4e" />
+
 A Python application for processing, analyzing, and visualizing spectrum measurement data collected from multiple measurement files. The application provides an interactive graphical interface for loading measurement datasets, performing spectrum processing, reducing measurement noise, calculating peak areas, and exporting the resulting figures.
 
 ---
