@@ -1,4 +1,5 @@
 # Spectrum-signal-analysis-toolkit
+<img width="520" height="639" alt="5" src="https://github.com/user-attachments/assets/a0352ac8-0a0e-49b1-a2bc-db015d511a4e" />
 A Python application for processing, analyzing, and visualizing spectrum measurement data collected from multiple measurement files. The application provides an interactive graphical interface for loading measurement datasets, performing spectrum processing, reducing measurement noise, calculating peak areas, and exporting the resulting figures.
 
 ---
@@ -15,6 +16,7 @@ The application processes a folder containing **20 measurement files** (`measure
 |---------|-------------|
 | Column 1 | Energy value |
 | Column 2 | Measured intensity (deviation) |
+<img width="517" height="640" alt="3" src="https://github.com/user-attachments/assets/6d45f176-81a4-46e2-90a5-d6542da766b4" />
 
 The energy values remain identical across all measurement files, while the intensity values differ between measurements.
 
@@ -104,6 +106,7 @@ This project strengthened practical experience in:
 - Modular software architecture
 - Exception handling
 - Scientific computing using NumPy
+<img width="600" height="500" alt="f1" src="https://github.com/user-attachments/assets/8ba7b133-2d92-4ad9-b5b0-1f3a48259ecc" />
 
 ---
 
